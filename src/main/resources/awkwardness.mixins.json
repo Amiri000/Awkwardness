@@ -5,6 +5,7 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "Awkwardness.refmap.json",
   "mixins": [
+    "BaseContainerBlockEntityMixin"
   ],
   "client": [
   ],
